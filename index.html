@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD html 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="accessories/clock.css" type="text/css" media="screen" />
+	<script type="text/javascript" src="accessories/jquery-1.6.min.js"></script> 
+	<script type="text/javascript" src="accessories/clock.js"></script> 
+	<script type="text/javascript" src="accessories/toggle.js"></script>
+	<title>OCCASION</title>
+</head>
+<body>
+
+<div id="container">
+	<div id="wisdom">
+		<div id="what">Time flies like an arrow, fruit flies like a banana.</div>
+		<div id="who">GMarx</div>
+	</div>
+	
+
+<table id="clock">
+	<tr>
+		<td colspan="4">
+			<h1 id='title'>TIME REMAINING</h1>
+		</td>
+	</tr>
+	<tr id="label">
+		<td class="day, counter">
+			<h2>DAYS</h2>
+		</td>
+		<td class="hrs, counter">
+			<h2>HOURS</h2>
+		</td>
+		<td class="min, counter">
+			<h2>MINUTES</h2>
+		</td>
+		<td class="sec, counter">
+			<h2>SECONDS</h2>
+		</td>
+	</tr>
+	<tr id="content">
+		<td id="day" class="day, counter">
+			000
+		</td>
+		<td id="hrs" class="hrs, counter">
+			00
+		</td>
+		<td id="min" class="min, counter">
+			00
+		</td>
+		<td id="sec" class="sec, counter">
+			00
+		</td>
+	</tr>
+</table>
+
+
+
+
+
+<div id="question">
+	<a class="title" href="javascript:toggleVisibility('answer','answer_link', '?', '?');" id="answer_link">?</a><br /> 
+	<div style="display: none;" id="answer">
+	<ul>
+		<li>Written by <a href="http://www.nicolashoening.de/">Nic</a> &amp; <a href="http://www.yanzen.de/">Jan</a></li>
+		<li>Inspired by <a href="http://en.wikipedia.org/wiki/Wes_Mendell">Wes Mendell's</a> crazy countdown clock in <a href="http://en.wikipedia.org/wiki/Studio_60_on_the_Sunset_Strip">Studio 60</a></li>
+		<li>In order to <a href="http://images2.wikia.nocookie.net/__cb20061012014509/studio60/images/3/3e/Time_remaining.jpg">look like it should</a> the clock thankfully uses</li>
+		<ol>
+			<li><a href="http://www.dafont.com/dot-matrix.font">Dot Matrix</a> 
+			(by <a href="http://www.dionaea.com/information/fonts.html">Svein Kåre Gunnarson</a>)</li>
+			<li><a href="http://www.dafont.com/digit.font">Digit</a> 
+			(by paldave)</li>
+		</ol>
+	</div> 
+ </div>
+
+
+
+<p id="time" class="time"></p>
+
+
+
+</body>
+</html>
