@@ -39,3 +39,5 @@ In order to look like it should (see above), the clock thankfully uses the fonts
 
 * [Dot Matrix](http://www.dafont.com/dot-matrix.font) by [Svein Kåre Gunnarson](http://www.dionaea.com/information/fonts.html)
 * [Digit](http://www.dafont.com/digit.font) (by paldave)
+
+As it stands, the clock requires a CSS3 - compatible browser to render these fonts. 
