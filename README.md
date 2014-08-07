@@ -37,5 +37,5 @@ Thanks
 
 In order to look like it should (see above), the clock thankfully uses the fonts
 
-* [Dot Matrix](Studio 60 on the Sunset Strip) by [Svein Kåre Gunnarson](http://www.dionaea.com/information/fonts.html)
+* [Dot Matrix](http://www.dafont.com/dot-matrix.font) by [Svein Kåre Gunnarson](http://www.dionaea.com/information/fonts.html)
 * [Digit](http://www.dafont.com/digit.font) (by paldave)
