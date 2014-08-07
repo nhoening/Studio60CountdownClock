@@ -8,13 +8,17 @@ A countdown clock for your browser. Set your own deadline and see it being count
 
 Inspiration
 -------------
-Inspired by [Wes Mendell](http://en.wikipedia.org/wiki/Wes_Mendell)'s crazy countdown clock in the TV show ["Studio 60 on the Sunset Strip"](http://www.imdb.com/title/tt0485842/). It was made by [Nic](http://www.nicolashoening.de/) and [Jan](http://www.yanzen.de/).
+This clock is inspired by [Wes Mendell](http://en.wikipedia.org/wiki/Wes_Mendell)'s crazy countdown clock in the TV show ["Studio 60 on the Sunset Strip"](http://www.imdb.com/title/tt0485842/). It was made by [Nic](http://www.nicolashoening.de/) and [Jan](http://www.yanzen.de/).
 
 
 Usage
 ------
 
-Simply point your browser to `index.html` and provide any of these URL parameters:
+First, clone this repo:
+
+$ git clone https://github.com/nhoening/Studio60CountdownClock
+
+Then, simply point your browser to `index.html` and provide any of these URL parameters:
 
 * title (default, as in the TV show, is "TIME REMAINING")
 * year
