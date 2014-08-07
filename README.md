@@ -7,7 +7,7 @@ Written by [Nic](http://www.nicolashoening.de/) and [Jan](http://www.yanzen.de/)
 Inspired by [Wes Mendell](http://en.wikipedia.org/wiki/Wes_Mendell)'s crazy countdown clock in [Studio 60](http://en.wikipedia.org/wiki/Studio_60_on_the_Sunset_Strip).
 Set your own deadline and see it being counted down!
 
-![The way it looked like in the show](http://images2.wikia.nocookie.net/__cb20061012014509/studio60/images/3/3e/Time_remaining.jpg =500x)
+![The way it looked like in the show](http://images2.wikia.nocookie.net/__cb20061012014509/studio60/images/3/3e/Time_remaining.jpg)
 
 
 Simply point your browser to `index.html` and provide any of these URL parameters:
@@ -19,7 +19,7 @@ Simply point your browser to `index.html` and provide any of these URL parameter
 * hour
 * minute
 
-![Screenshot](accessories/screenshot.png =500x)
+![Screenshot](accessories/screenshot.png)
 
 In order to look like it should (see above), the clock thankfully uses the fonts
 
